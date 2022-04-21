@@ -4,7 +4,7 @@
 
 # Contador feito com React JS
 
-Apliquei pratica em Context APi, testes de componentes, com a biblioteca nativa do react, stub de funções, gerenciamento de estado
+Apliquei pratica em Context APi, testes de componentes com a biblioteca nativa do react, stub de funções, gerenciamento de estado
 
 ## Ferramentas de teste
 
