@@ -1,7 +1,8 @@
 # One daily project
 
 <div align=center>
-  ![Captura de tela de 2022-04-21 20-17-28](https://user-images.githubusercontent.com/56457040/164567522-3118c1f4-19b8-4486-adcc-3d07957d0c81.png)  <div/>
+  ![Captura de tela de 2022-04-21 20-17-28](https://user-images.githubusercontent.com/56457040/164567626-1266d771-a862-4726-aac8-ead8a46aa57c.png)
+</div>
 
 # Contador feito com React JS
 
