@@ -1,6 +1,6 @@
 # One daily project
 
-![Captura de tela de 2022-04-21 20-17-28.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4467e844-3be4-42d1-9845-853211537b88/Captura_de_tela_de_2022-04-21_20-17-28.png)
+![Captura de tela de 2022-04-21 20-17-28](https://user-images.githubusercontent.com/56457040/164567522-3118c1f4-19b8-4486-adcc-3d07957d0c81.png)
 
 # Contador feito com React JS
 
