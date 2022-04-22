@@ -8,7 +8,7 @@ Apliquei pratica em Context APi, testes de componentes com a biblioteca nativa d
 
 ## Ferramentas de teste
 
-### React test lybrary
+### React test library
 
 ## Para rodar localmente
 
